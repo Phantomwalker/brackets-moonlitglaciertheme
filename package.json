@@ -2,9 +2,9 @@
     "title": "Moonlit Glacier",
     "name": "moonlitglacier",
     "description": "A dark theme with light blue highlights for use with the Brackets Web Editor.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Phantomwalker",
-    "homepage": "https://phantomwalker.tv/",
+    "homepage": "https://github.com/Phantomwalker/brackets-moonlitglaciertheme",
     "repository": {
         "type": "git",
         "url": "git@github.com:Phantomwalker/brackets-moonlitglaciertheme.git"
